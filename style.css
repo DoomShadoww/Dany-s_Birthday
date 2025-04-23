@@ -10,7 +10,7 @@
     background-image: url('img/spotbg.png');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center top;
     /* background: linear-gradient(to bottom, #1a1a1a 0%, #2c2c2c 50%, #000000 100%); */
     color: #fff;
